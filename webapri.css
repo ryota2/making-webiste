@@ -3,13 +3,19 @@
 body {
 	position: relative;
 	border: solid;
-	height: 1000px;
+	height: 2000px;
 }
 
 h1 {
 	text-align: center;
 }
 
+.pic {
+	width: 600px;
+	height: 400px;
+}
+
+//*
 div.login {
 	position: absolute;
 	width: 80px;
@@ -67,3 +73,4 @@ div.all {
 	border-width: 1px;
 	margin-top: 300px;
 }
+*/
