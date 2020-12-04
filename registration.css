@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+	position: relative;
+}
+
+table {
+	text-align: center;
+	margin-top: 30px;
+	width: 500px;
+	height: 500px;
+}
+
+.blog {
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.replay {
+	position: absolute;
+	left: 630px;
+	margin-top: 20px;
+}
+
+.cancel {
+	position: absolute;
+	left: 720px;
+	margin-top: 20px;
+}

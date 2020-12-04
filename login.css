@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+	position: relative;
+}
+
+.user {
+	position: absolute;
+	text-align: center;
+	margin-top: 100px;
+	border: solid;
+	padding: 50px;
+	width: 700px;
+	left: 300px;
+}
