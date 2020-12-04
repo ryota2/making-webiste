@@ -10,9 +10,57 @@ h1 {
 	text-align: center;
 }
 
+a {
+	border: solid;
+	border-width: 1px;
+	padding: 10px;
+	text-decoration: none;
+	background: silver;
+	color: black;
+	margin: 50px;
+}
+
+.login{
+	position: absolute;
+	right: 300px;
+	
+}
+
+.registration {
+	position: absolute;
+	right: 100px;
+	
+}
+
 .pic {
-	width: 600px;
+	position: absolute;
+	width: 700px;
 	height: 400px;
+	left: 400px;
+}
+
+.travel {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	margin-top: 500px;
+	left: 450px;
+}
+
+.trip {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	left: 650px;
+	margin-top: 500px;
+}
+
+.cafe {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	left: 850px;
+	margin-top: 500px;
 }
 
 //*
