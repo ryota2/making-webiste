@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	position: relative;
+	height: 1000px;
+}
+
+.mail {
+	position: absolute;
+	left: 380px;
+	margin-top: 70px;
+	border: solid;
+	padding: 70px;
+	width: 500px;
+	text-align: center;
+}
+
+.transfer {
+	position: absolute;
+	left: 680px;
+	margin-top: 720px;
+	
+}

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+.contents1 {
+	border: solid;
+	border-width: 1px;
+	display: inline-block;
+	width: 200px;
+	height: 300px;
+	margin: 120px;
+}
+
+.contents2 {
+	border: solid;
+	border-width: 1px;
+	display: inline-block;
+	width: 200px;
+	height: 300px;
+	margin: 120px;
+}
+
+.contents3 {
+	border: solid;
+	border-width: 1px;
+	display: inline-block;width: 200px;
+	height: 300px;
+	margin: 120px;
+}

@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+	position: relative;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	position: absolute;
+	left: 450px;
+}
+
+.cat {
+	position: absolute;
+	left: 450px;
+	margin-top: 150px;
+}
+
+.rist {
+	position: absolute;
+	right: 300px;
+	margin-top: 200px;
+}
+
+a {
+	color: black;
+}

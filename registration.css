@@ -2,28 +2,41 @@
 
 body {
 	position: relative;
+	height: 1000px;
+}
+
+.hill {
+	position: absolute;
+	left: 620px;
+	
 }
 
 table {
+	position: absolute;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 200px;
 	width: 500px;
 	height: 500px;
+	left: 450px;
 }
 
 .blog {
-	margin-top: 50px;
-	font-size: 30px;
+	position: absolute;
+	margin-top: 100px;
+	font-size: 20px;
+	left: 660px;
+	
+	
 }
 
 .replay {
 	position: absolute;
-	left: 630px;
-	margin-top: 20px;
+	left: 620px;
+	margin-top: 750px;
 }
 
 .cancel {
 	position: absolute;
 	left: 720px;
-	margin-top: 20px;
+	margin-top: 750px;
 }
